@@ -487,3 +487,7 @@ header .intro-text .name {
     font-size: 2.25em;
 }
 
+.resume{
+	margin: 0px;
+  font-size: 8px;
+}
